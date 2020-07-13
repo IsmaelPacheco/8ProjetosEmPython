@@ -1,4 +1,4 @@
-## 8ProjetosemPython
+## 8ProjetosEmPython
 8 projetos feitos em Python para aplicar conhecimentos adquiridos em Python
 
 ### gerador_de_numero_aleatorio_cli
